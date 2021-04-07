@@ -1,0 +1,3 @@
+Se profundizo el tema de cookies analizando conceptos
+como cookies de sesión, cookies funcionales, cookies de
+terceros, cookies de personalización, cookies de análisis.

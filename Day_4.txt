@@ -1,0 +1,4 @@
+Se analizo el concepto de client-site storage que
+Es similar a las cookies pero estás son guardadas 
+De manera local y no enviadas entre cliente al servidor
+Se abren con la API de HTML5.

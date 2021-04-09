@@ -1,0 +1,6 @@
+Aprendí el concepto de identificación del navegador
+Que consiste en que hay información del navegador del 
+cliente que se comparte a través de las cabeceras 
+HTTP o por medio de scripts que se encargan de 
+recopilar la información y enviarla a un sitio web 
+respectivo.

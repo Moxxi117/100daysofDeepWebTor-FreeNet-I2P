@@ -1,0 +1,5 @@
+Aprendí que las IP's están distribuidas en 
+diferentes bases de datos que utilizan el 
+protocolo Whois lo que permite realizar
+consultas sobre el propietario de un dominio o
+dirección IP.

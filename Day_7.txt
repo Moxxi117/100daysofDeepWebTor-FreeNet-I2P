@@ -1,0 +1,7 @@
+Aprendí sobre los registros de actividad que 
+contienen algunos servicios en la web y que 
+pueden afectar negativamente a la privacidad
+del usuario ya que perfilan usuarios y es 
+posible que registren cuantas horas pasa conectado
+su ubicación, por eso es importante leer los 
+terminos y condiciones del servicio.

@@ -1,0 +1,5 @@
+Analice el tema de redes sociales con enfoque en
+Facebook y como esta red social puede vulnerar 
+nuestra privacidad implementando el rastreo en 
+paginas web con cookies de Facebook y así 
+perfilarnos para anuncios o servicios de terceros.

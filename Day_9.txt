@@ -1,0 +1,4 @@
+Hoy analicé el tema de los servicios de Google
+y cómo recolectan información de los usuarios,
+y las herramientas que podemos usar para evitar
+la fuga de nuestra información.

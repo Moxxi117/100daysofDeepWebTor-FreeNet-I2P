@@ -1,0 +1,4 @@
+Hoy analice el concepto de supercookies o cookies
+persistentes que como su nombre lo indica son 
+difíciles de remover del navegador ya que está
+sé vuelve a crear así misma.

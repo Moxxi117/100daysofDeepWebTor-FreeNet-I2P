@@ -1,0 +1,3 @@
+Analice los motores de busqueda que no almecenan ninguna cookie
+mucho menos la direcciones IP's de sus usuarios esto con el fin de
+proteger la privacidad de sus usuarios.

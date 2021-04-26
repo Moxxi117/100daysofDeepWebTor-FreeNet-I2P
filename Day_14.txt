@@ -1,0 +1,4 @@
+El día de hoy análice los diferentes tipos de
+navegadores y cómo modificar su configuración
+para poder tener un mejor control de nuestra 
+información.

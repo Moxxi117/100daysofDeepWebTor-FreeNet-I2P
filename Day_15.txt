@@ -1,0 +1,3 @@
+Hoy análice el protocolo HTTP y cómo puede ser
+intervenido por alguien de la misma red, y en base 
+a esto el porqué de usar HTTPS.

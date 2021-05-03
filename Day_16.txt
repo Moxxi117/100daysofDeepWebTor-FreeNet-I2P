@@ -1,0 +1,4 @@
+Hoy analice la extensión de HTTPS everywhere
+que tiene la función de sobrescribirun sitio web 
+que usa http a https y también se puede complementar
+con ssl observatory para poder detectar ataques MITM.

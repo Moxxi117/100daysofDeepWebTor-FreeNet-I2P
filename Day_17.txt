@@ -1,0 +1,4 @@
+Hoy analicé las políticas HSTS que es un mecanismo
+para obligar a los clientes y a los servidores a 
+establecer una comunicación en un canal de
+HTTPS seguro.
